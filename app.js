@@ -12,3 +12,7 @@ function secondFunction() {
   alert("change 2");
   alert("change 3");
 }
+
+function thirdFunction() {
+  alert("This is number 3");
+}
