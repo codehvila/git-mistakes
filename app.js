@@ -15,4 +15,7 @@ function secondFunction() {
 
 function thirdFunction() {
   alert("This is number 3");
+  alert("change 4");
+  alert("change 5 - in a rebase");
+  alert("change 6");
 }
